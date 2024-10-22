@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import BrandLogo from './components/BrandLogo';
 import ThirdContainer from './components/thirdContainer';
 import FouthContainer from './components/fouthContainer';
+import Qna from './components/qna';
 export const metadata = {
     title: 'Nethma Dissanayake',  // Page title
     description: 'My Assiments',  // Page description
@@ -19,6 +20,7 @@ function layout() {
           <BrandLogo/>
           <ThirdContainer/>
           <FouthContainer />
+          <Qna/>
         </body>
       </html>
 
