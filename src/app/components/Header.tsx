@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
 import { Data } from '../../data/Data';
-
 import img from '../../images/logo.png'
 // Font Awosome link
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
